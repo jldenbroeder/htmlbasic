@@ -1,0 +1,4 @@
+index.php?lg=fr
+index.php?lg=fr#contact
+contact-confirmation.php?lg=fr
+
