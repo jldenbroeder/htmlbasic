@@ -1,22 +1,40 @@
+.head{
 
-#conteneur1
+}
+
+.conteneur
 {
     display: flex;
     justify-content: center;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 100%;
+    max-width: 960 px;
+    min-width: 600 px;
 }
 
-.element_left
+.element_100
 {
-  width: 25%;
-  min-width: 250 px;
+      width: 100%;
+  max-width: 960 px;
+  min-width: 600 px;;
   background-color: blue;
 }
-.element_right
+.element_33
+{
+width: 33.33%;
+min-width: 200 px;
+background-color: black;
+}
+.element_50
+{
+  width: 50%;
+  min-width: 300 px;
+  background-color: black;
+}
+.element_75
 {
 width: 75%;
-min-width: 500 px;
+min-width: 450 px;
 background-color: red;
 }
