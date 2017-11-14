@@ -1,5 +1,5 @@
 .head{
-
+/* image head */
 }
 
 .conteneur
@@ -15,7 +15,7 @@
 
 .element_100
 {
-      width: 100%;
+  width: 100%;
   max-width: 960 px;
   min-width: 600 px;;
   background-color: blue;
