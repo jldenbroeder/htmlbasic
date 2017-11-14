@@ -21,8 +21,8 @@
   width: 100%;
   max-width: 960px;
   min-width: 600px;
-  margin: 20px;
-  padding: 20px;
+  margin: 5px;
+  padding: 5px;
   /*background-color: blue;*/
 }
 .col_33
@@ -46,11 +46,9 @@ min-width: 450px;
 .txt-justify{
   text-align: justify;
 }
-
+.fondblanc{
+  background-color: rgb(251, 251, 251);
+}
 .retrait {
   text-indent:50px;
-}
-blockquote {
-    /* une paire de guillemets */
-    quotes: "«\00A0" "\00A0»";
 }
