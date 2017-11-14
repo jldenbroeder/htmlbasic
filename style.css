@@ -50,4 +50,7 @@ min-width: 450px;
 .retrait {
   text-indent:50px;
 }
-                
+blockquote {
+    /* une paire de guillemets */
+    quotes: "«\00A0" "\00A0»";
+}
